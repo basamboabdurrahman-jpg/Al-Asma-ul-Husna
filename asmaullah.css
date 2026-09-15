@@ -46,43 +46,6 @@ header{
     color:#14532d;
     margin-bottom:15px;
 }
-/* ===========================
-   SEARCH
-=========================== */
-
-.search-box{
-    display:flex;
-    justify-content:center;
-    gap:10px;
-    margin-bottom:25px;
-}
-
-#search{
-    width:70%;
-    padding:12px;
-    border-radius:10px;
-    border:2px solid #0b7d3b;
-    font-size:18px;
-    outline:none;
-}
-
-#searchBtn{
-    padding:12px 25px;
-    border:none;
-    border-radius:10px;
-    background:#0b7d3b;
-    color:white;
-    cursor:pointer;
-    font-size:16px;
-}
-
-#searchBtn:hover{
-    background:#095d2c;
-}
-
-/* ===========================
-   COUNTER
-=========================== */
 
 .counter{
     text-align:center;
